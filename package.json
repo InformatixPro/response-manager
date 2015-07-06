@@ -1,0 +1,35 @@
+{
+  "name": "informatixpro-response-manager",
+  "description": "Node.js helper routines for sending success/error messages to consumer",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Matt Ebersbach",
+      "email": "mebersbach@informatixpro.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InformatixPro/response-manager"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "files": [
+    "lib/",
+    "index.js",
+    "package.json"
+  ],
+  "engines": {
+    "node": ">= 0.12"
+  },
+  "scripts": {
+  },
+  "maintainers": [
+    {
+      "name": "Matthew Ebersbach",
+      "email": "mebersbach@informatixpro.com"
+    }
+  ]
+}
